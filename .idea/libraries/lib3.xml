@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lib3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ASSGN_PRJ301_NA/ASSGN_PRJ301_NA/lib/lombok-1.18.24.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ASSGN_PRJ301_NA/ASSGN_PRJ301_NA/lib/jakarta.servlet.jsp.jstl-api-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ASSGN_PRJ301_NA/ASSGN_PRJ301_NA/lib/jakarta.servlet.jsp.jstl-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ASSGN_PRJ301_NA/ASSGN_PRJ301_NA/lib/jaxb-api-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ASSGN_PRJ301_NA/ASSGN_PRJ301_NA/lib/sqljdbc42.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
